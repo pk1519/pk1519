@@ -151,31 +151,54 @@ I'm a developer who enjoys building intelligent software — from machine learni
 <tr>
 <td width="50%" valign="top">
 
-### 🎙️ Voice-Powered AI Assistant
+### 🔐 AuthAI — Behavioral Biometrics Authentication
 
-A voice-controlled assistant that lets me operate my PC hands-free — my own take on J.A.R.V.I.S.
+Real-time bot detection that goes beyond passwords. It captures how a user moves the mouse, types and switches windows, turns that into features over a sliding window, and a trained ML model classifies the behavior as **Person** or **Robot**.
 
-<!-- TODO: add repo link, e.g. [View repository](https://github.com/pk1519/<repo-name>) -->
-<!-- TODO: add a 1-line "problem solved", the tech stack badges, and 2–3 key features -->
+- 🖱️ Mouse, keyboard and window-switching activity captured in real time
+- 🤖 ML classification of human vs. automated behavior
+- 📊 Streamlit dashboard with live monitoring charts
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pk1519/AuthAI-Real-Time-Behavioral-Biometrics-Authentication-System)
 
 </td>
 <td width="50%" valign="top">
 
-### ➕ Your next project here
+### 📈 Brightpulse — Social Media Tracker
+
+A social media analytics dashboard for creators, marketing teams and agencies. It brings follower growth, engagement and top posts into one view, flags unusual drops or spikes automatically, and supports live YouTube OAuth plus a sandbox mode for the other platforms.
+
+- 📊 KPI dashboard with 7 / 30 / 90-day comparisons
+- 🚨 Anomaly alerts against a rolling 7-day baseline
+- 🔐 NextAuth sessions, Zod validation, AES-256-GCM encrypted OAuth tokens
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pk1519/Social-Media-Tracker)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-brightpulse-4F46E5?style=for-the-badge&logo=vercel&logoColor=white)](https://brightpulse-rosy.vercel.app/login)
+
+</td>
+</tr>
+</table>
 
 <!--
-  COPY THIS BLOCK FOR EACH NEW PROJECT
+  COPY THIS BLOCK INTO A NEW <td> FOR EACH NEW PROJECT
   ### Project name
   One-line description of what it does and the problem it solves.
   **Stack:** badge · badge · badge
   [View repository](https://github.com/pk1519/<repo>) · [Live demo](https://...)
 -->
-
-_Pin your best repositories on your GitHub profile to keep this section in sync._
-
-</td>
-</tr>
-</table>
 
 <br/>
 
