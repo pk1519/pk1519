@@ -14,6 +14,11 @@
 <a href="mailto:priyanshu345kumar@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://x.com/PriyanshuK78728"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" /></a>
 
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=pk1519&label=PROFILE%20VIEWS&color=FF6B6B&labelColor=444444&style=for-the-badge" alt="Profile views" />
+<a href="https://github.com/pk1519?tab=followers"><img src="https://img.shields.io/github/followers/pk1519?label=FOLLOWERS&color=4ECDC4&labelColor=1a1a1a&style=for-the-badge" alt="GitHub followers" /></a>
+
 </div>
 
 <br/>
@@ -178,24 +183,24 @@ _Pin your best repositories on your GitHub profile to keep this section in sync.
 
 ## 📊 GitHub Activity
 
-<div align="center">
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=pk1519&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=pk1519&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pk1519&theme=tokyonight&hide_border=true&layout=compact&include_all_commits=true&count_private=true" alt="Top languages" />
+<p align="center">
+  <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pk1519&theme=tokyonight" alt="GitHub profile details" />
+</p>
 
-<img src="https://streak-stats.demolab.com/?user=pk1519&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-</div>
-
-<br/>
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=pk1519&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub trophies" />
-
-</div>
+<table align="center">
+  <tr>
+    <td><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pk1519&theme=tokyonight" alt="Repos per language" /></td>
+    <td><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pk1519&theme=tokyonight" alt="Most used languages by commits" /></td>
+  </tr>
+  <tr>
+    <td><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pk1519&theme=tokyonight" alt="GitHub stats" /></td>
+    <td><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pk1519&theme=tokyonight&utcOffset=5" alt="Productive time" /></td>
+  </tr>
+</table>
 
 <br/>
 
@@ -220,8 +225,6 @@ I'm always happy to talk about Python, C++, Java, JavaScript, web development, a
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote" />
 
 <br/>
-
-<img src="https://visitcount.itsvg.in/api?id=pk1519&icon=3&color=0" alt="Profile views" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0F172A,50%:4F46E5,100%:06B6D4&section=footer" alt="" />
 
