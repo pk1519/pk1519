@@ -88,7 +88,7 @@ I'm a developer who enjoys building intelligent software — from machine learni
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=dotnet&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B2?style=flat-square&logo=bootstrap&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black)
@@ -169,7 +169,6 @@ Real-time bot detection that goes beyond passwords. It captures how a user moves
 [![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pk1519/AuthAI-Real-Time-Behavioral-Biometrics-Authentication-System)
 
 </td>
-
 <td width="50%" valign="top">
 
 ### 📈 Brightpulse — Social Media Tracker
@@ -193,8 +192,6 @@ A social media analytics dashboard for creators, marketing teams and agencies. I
 </tr>
 </table>
 
-<br/>
-
 <!--
   COPY THIS BLOCK INTO A NEW <td> FOR EACH NEW PROJECT
   ### Project name
@@ -205,68 +202,28 @@ A social media analytics dashboard for creators, marketing teams and agencies. I
 
 <br/>
 
-<!-- ═══════════════════ GITHUB ACTIVITY ═══════════════════ -->
+<!-- ═══════════════════ GITHUB STATS ═══════════════════ -->
 
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img
-    width="96%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pk1519&theme=tokyonight"
-    alt="GitHub Profile Details"
-  />
+  <img src="https://streak-stats.demolab.com/?user=pk1519&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
-<br/>
+<p align="center">
+  <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pk1519&theme=tokyonight" alt="GitHub profile details" />
+</p>
 
 <table align="center">
   <tr>
-    <td width="50%" align="center">
-      <img
-        width="100%"
-        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pk1519&theme=tokyonight"
-        alt="Repositories per Language"
-      />
-    </td>
-
-    <td width="50%" align="center">
-      <img
-        width="100%"
-        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pk1519&theme=tokyonight"
-        alt="Most Used Languages by Commits"
-      />
-    </td>
+    <td><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pk1519&theme=tokyonight" alt="Repos per language" /></td>
+    <td><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pk1519&theme=tokyonight" alt="Most used languages by commits" /></td>
   </tr>
-
   <tr>
-    <td width="50%" align="center">
-      <img
-        width="100%"
-        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pk1519&theme=tokyonight"
-        alt="GitHub Statistics"
-      />
-    </td>
-
-    <td width="50%" align="center">
-      <img
-        width="100%"
-        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pk1519&theme=tokyonight&utcOffset=5"
-        alt="Productive Time"
-      />
-    </td>
+    <td><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pk1519&theme=tokyonight" alt="GitHub stats" /></td>
+    <td><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pk1519&theme=tokyonight&utcOffset=5" alt="Productive time" /></td>
   </tr>
 </table>
-
-<br/>
-
-<p align="center">
-  <a href="https://github.com/pk1519">
-    <img
-      src="https://img.shields.io/badge/View%20My%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="View GitHub Profile"
-    />
-  </a>
-</p>
 
 <br/>
 
